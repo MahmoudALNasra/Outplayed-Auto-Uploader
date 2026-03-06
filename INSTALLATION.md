@@ -9,7 +9,7 @@ Follow these simple steps to get your Outplayed clips uploading to YouTube autom
 ### Step 2: Download this Folder
 1. Click the green "Code" button at the top of this page and select **"Download ZIP"**.
 2. Extract the ZIP folder to somewhere safe on your computer (like your Documents folder).
-
+3. will need to go to the Google Cloud Console, enable the YouTube Data API v3, create Desktop OAuth 2.0 credentials, download the client_secret.json file
 ### Step 3: Install Requirements
 1. Open the extracted folder.
 2. Click on the address bar at the top of the folder window, type `cmd`, and press Enter. A black window will open.
